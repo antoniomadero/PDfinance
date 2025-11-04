@@ -19,7 +19,7 @@
 | 6.B   | TU + Snihotová|
 | 7.A   | TU + AP |
 | 7.B   | TU + Roudný |
-| 8.A   | TU + AP + štáblová|
+| 8.A   | TU + AP + Štáblová|
 | 8.B   | TU + Rabenseifnerová|
 | 9.A   | TU + AP |
 | 9.B   | TU |
